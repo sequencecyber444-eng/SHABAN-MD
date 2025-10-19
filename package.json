@@ -21,6 +21,7 @@
     "crypto-digest-sync": "^1.0.0",
     "crypto-js": "latest",
     "file_size_url": "1.0.4",
+    "file-type": "^16.5.3",
     "fs-extra": "^11.1.0",
     "ffmpeg": "^0.0.4",
     "fluent-ffmpeg": "^2.1.2",
@@ -42,6 +43,6 @@
     "dotenv": "^16.5.0",
     "jimp": "latest",
     "api-dylux": "latest",
-    "pm2": "^6.0.8"
+    "pm2": "^6.0.13"
   }
 }
