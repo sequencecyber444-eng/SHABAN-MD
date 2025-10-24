@@ -42,6 +42,7 @@
     "dotenv": "^16.5.0",
     "jimp": "latest",
     "api-dylux": "latest",
-    "pm2": "^6.0.8"
+    "pm2": "^6.0.8",
+    "imagekit": "^4.1.4"
   }
 }
